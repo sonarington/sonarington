@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <div style="display: flex; flex-direction: row;  align-items: center;">
 
   <div align="right">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonarington&layout=compact&hide=scss&theme=dracula&langs_count=8"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonarington&layout=compact&hide=jupyter%20notebook,scss&theme=dracula&langs_count=8"/>
     <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonarington&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/> -->
     <!--img align="right" src="https://github-readme-stats.vercel.app/api?username=sonarington&show_icons=true&theme=radical"/-->
   </div>
